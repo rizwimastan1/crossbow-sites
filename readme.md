@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Crossbow</strong> is a <em>lightning fast</em> Static Site Generator & Blog Engine
+  <strong>Crossbow by Rizwimastan</strong> is a <em>lightning fast</em> Static Site Generator & Blog Engine
 </p>
 
 <p align="center">
